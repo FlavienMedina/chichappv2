@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Enjoy Coffee",
+        "address": "63 Bis Avenue du General de Lattre de Tassigny",
+        "city": "Villescrenes",
+        "zipcode": "94440",
+        "fullAddress": "112 Rue de Chevilly Zac de l'Epi d'Or, 94800 Villejuif"
+    },
+    {
+        "id": 2,
+        "name": "Twice",
+        "address": "35 Avenue Rouget de Lisle",
+        "city": "Vitry sur Seine",
+        "zipcode": "944000",
+        "fullAddress": "35 Avenue Rouget de Lisle, 94400 Vitry sur Seine"
+    }
+]
